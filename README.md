@@ -1,6 +1,6 @@
-<h1 align="center">Desafio de IA com Python</h1>
+<h1 align="center">Desafio de IA</h1>
 
-<p align="center">Um projeto simples, mas desafiador, para prever o preço da habitação com base em certos fatores como área da casa, quartos, móveis, proximidade da estrada principal, etc. O conjunto de dados é pequeno, mas sua complexidade surge devido ao fato de ter forte multicolinearidade. Você pode superar esses obstáculos e construir um modelo preditivo decente? :loudspeaker:</p>
+<p align="center">Um projeto simples, mas desafiador, para prever o preço da habitação com base em certos fatores como área da casa, quartos, móveis, proximidade da estrada principal, etc. O conjunto de dados é pequeno, mas sua complexidade surge devido ao fato de ter forte multicolinearidade. :loudspeaker:</p>
 
 <div align="center">
 
