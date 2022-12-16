@@ -21,7 +21,3 @@
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-<<<<<<< HEAD
-
-=======
->>>>>>> b42f0bd2c33f51d6f00b9644901816381244cea3
